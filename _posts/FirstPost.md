@@ -6,5 +6,3 @@ layout: default
 description: The first post on this site...
 ---
 
-This is the first post!
-<h1 style="background-color:Tomato;">Hello World</h1>
